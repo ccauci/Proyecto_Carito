@@ -25,7 +25,7 @@ import { EducacionComponent } from './components/educacion/educacion.component';
   imports: [
     BrowserModule,
     AppRoutingModule
-  ],
+    ],
   providers: [],
   bootstrap: [AppComponent]
 })
